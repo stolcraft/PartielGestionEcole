@@ -21,6 +21,7 @@ et le système de Mock
 
 5\ Toutes les classes sont disponibles
 dans le jar "gestionEcole" avec les tests
+de la couche service
 
 6\ Les deux diagrammes UML sont disponible
 dans le dossier UML
