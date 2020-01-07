@@ -1,0 +1,5 @@
+eu.ensup.gestionEcole.dao
+eu.ensup.gestionEcole.domaine
+eu.ensup.gestionEcole.presentation
+eu.ensup.gestionEcole.service
+eu.ensup.gestionEcole.service.test
